@@ -9,7 +9,7 @@ const banking = require('./banking');
 
 const TOKEN = 'MTUwNTk0MzcwNjE2MTY0NzcxOA.GBmqep.0LfVAoXQc4qROGSw_phi5t_TfxfiSfluIKGfYc
 ';       // ← replace
-const CLIENT_ID = '1505943706161647718';
+const CLIENT_ID = '1505943706161647718';       // ← replace
 
 const client = new Client({ intents: [GatewayIntentBits.Guilds] });
 
