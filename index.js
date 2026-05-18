@@ -7,7 +7,7 @@ const { REST } = require('@discordjs/rest');
 const { Routes } = require('discord-api-types/v10');
 const banking = require('./banking');
 
-const TOKEN = 'nothing
+const TOKEN = 'MTUwNTk0MzcwNjE2MTY0NzcxOA.GBmqep.0LfVAoXQc4qROGSw_phi5t_TfxfiSfluIKGfYc
 ';       // ← replace
 const CLIENT_ID = '1505943706161647718';
 
